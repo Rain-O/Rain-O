@@ -1,4 +1,4 @@
-### Ola! Eu sou o Rian Freitas 👓
+### Olá! Eu sou o Rian Freitas 👓
 
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rian.freitas.421@gmail.com?subject=Meu+contato)
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/twIMc3)
